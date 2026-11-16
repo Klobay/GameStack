@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="branding/GameStack_app_icon.png" alt="GameStack app logo" width="132" />
-  <h1>GameStack</h1>
+  <img src="branding/GameStack_app_icon.png" alt="GameStack app logo" width="132" /> <h1>GameStack</h1>
   <p><strong>Discover. Collect. Play.</strong></p>
   <p>A personal video game tracker built with Flutter.</p>
   <p>
