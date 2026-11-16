@@ -1,0 +1,13 @@
+env.json
+.env
+*.jks
+*.keystore
+build/
+.dart_tool/
+.idea/
+.gradle/
+local.properties
+android/local.properties
+lib/env_local.dart
+
+supabase/rawg_proxy.sql
